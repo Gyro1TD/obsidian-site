@@ -1,0 +1,1887 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About | Obscura Performance</title>
+    <meta
+      name="description"
+      content="Meet the coach behind Obscura Performance and the philosophy that shapes the program."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html" aria-label="Obscura Performance home">
+          <span class="brand-mark"></span>
+          <span class="brand-copy">
+            <strong>Obscura Performance</strong>
+            <span>Structured coaching</span>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="./index.html">Home</a>
+          <a href="./system.html">System</a>
+          <a href="./results.html">Results</a>
+          <a href="./for-you.html">Who It's For</a>
+          <a href="./about.html" aria-current="page">About</a>
+          <a href="./offers.html">Offers</a>
+        </nav>
+
+        <a class="button button-gold button-header" href="./offers.html#apply">Apply Now</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-hero about-hero">
+        <div class="container page-hero-content">
+          <p class="eyebrow reveal is-visible">About the coach</p>
+          <h1 class="reveal is-visible">Coaching built from real experience.</h1>
+          <p class="section-copy reveal is-visible">
+            Practical guidance shaped by lived experience, not trends or extremes.
+          </p>
+        </div>
+      </section>
+
+      <section class="section section-dark">
+        <div class="container about-grid">
+          <div class="about-copy">
+            <div class="section-heading reveal">
+              <p class="eyebrow">Why this approach exists</p>
+              <h2>From both extremes to something sustainable.</h2>
+            </div>
+
+            <p class="reveal">
+              I've experienced both extremes: being overweight and being too skinny. I
+              know what it feels like to struggle with confidence, consistency, and not
+              knowing what actually works.
+            </p>
+            <p class="reveal">
+              That's exactly why the coaching is built the way it is now. Not based on
+              trends or extremes, but on structure that actually fits real life.
+            </p>
+            <p class="reveal">
+              No extremes. No performative fitness advice. Just practical coaching built
+              for sustainable habits.
+            </p>
+
+            <div class="about-points reveal">
+              <div>
+                <span>3+ years</span>
+                <p>Training experience focused on discipline, strength, and body composition.</p>
+              </div>
+              <div>
+                <span>Practical</span>
+                <p>Built for busy schedules, social lives, and long-term adherence.</p>
+              </div>
+              <div>
+                <span>Sustainable</span>
+                <p>Progress that can be maintained without all-or-nothing dieting.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="about-media reveal" aria-label="Coaching imagery">
+            <img
+              class="about-image about-image-wide"
+              src="https://images.pexels.com/photos/6740311/pexels-photo-6740311.jpeg?auto=compress&cs=tinysrgb&w=1400"
+              alt="Coach guiding a client through a suspension training exercise"
+              loading="lazy"
+            />
+            <img
+              class="about-image about-image-tall"
+              src="https://images.pexels.com/photos/6740333/pexels-photo-6740333.jpeg?auto=compress&cs=tinysrgb&w=900"
+              alt="Coach and client smiling during a boxing training session"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-light">
+        <div class="container page-links">
+          <a class="button button-dark reveal" href="./offers.html">Explore Offers</a>
+          <a class="button button-outline-dark reveal" href="./offers.html#apply">Apply for Coaching</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>Obscura Performance</p>
+        <p>Structured fat loss coaching for busy people.</p>
+      </div>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0; url=./offers.html#apply" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting | Obscura Performance</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="section section-dark">
+      <div class="container section-heading centered">
+        <p class="eyebrow">Redirecting</p>
+        <h2>Apply now lives inside the offers page.</h2>
+        <p class="section-copy centered-copy">
+          If the redirect does not happen automatically, head to
+          <a href="./offers.html#apply">the apply section</a>.
+        </p>
+      </div>
+    </main>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0; url=./offers.html#seminar" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting | Obscura Performance</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="section section-dark">
+      <div class="container section-heading centered">
+        <p class="eyebrow">Redirecting</p>
+        <h2>The seminar now lives inside the offers page.</h2>
+        <p class="section-copy centered-copy">
+          If the redirect does not happen automatically, head to
+          <a href="./offers.html#seminar">the seminar section</a>.
+        </p>
+      </div>
+    </main>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Who It's For | Obscura Performance</title>
+    <meta
+      name="description"
+      content="See whether Obscura Performance coaching is the right fit for you."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html" aria-label="Obscura Performance home">
+          <span class="brand-mark"></span>
+          <span class="brand-copy">
+            <strong>Obscura Performance</strong>
+            <span>Structured coaching</span>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="./index.html">Home</a>
+          <a href="./system.html">System</a>
+          <a href="./results.html">Results</a>
+          <a href="./for-you.html" aria-current="page">Who It's For</a>
+          <a href="./about.html">About</a>
+          <a href="./offers.html">Offers</a>
+        </nav>
+
+        <a class="button button-gold button-header" href="./offers.html#apply">Apply Now</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-hero fit-hero">
+        <div class="container page-hero-content">
+          <p class="eyebrow reveal is-visible">Clarity first</p>
+          <h1 class="reveal is-visible">This is for the right person.</h1>
+          <p class="section-copy reveal is-visible">
+            Good coaching feels even better when the fit is right from the start.
+          </p>
+        </div>
+      </section>
+
+      <section class="section section-light">
+        <div class="container fit-grid">
+          <article class="fit-panel reveal">
+            <p class="fit-label">This is for you if</p>
+            <ul>
+              <li>You've tried multiple diets and still feel stuck.</li>
+              <li>You struggle with consistency more than knowledge.</li>
+              <li>You want structure, not more confusion.</li>
+              <li>You care about long-term results, not quick fixes.</li>
+            </ul>
+          </article>
+
+          <article class="fit-panel fit-panel-dark reveal">
+            <p class="fit-label">This is not for you if</p>
+            <ul>
+              <li>You want an overnight transformation.</li>
+              <li>You do not want to follow structure.</li>
+              <li>You are not ready to commit to the process.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section section-dark">
+        <div class="container split-intro">
+          <div class="section-heading reveal">
+            <p class="eyebrow">The right next step</p>
+            <h2>If this sounds like you, the support level matters next.</h2>
+          </div>
+          <p class="section-copy reveal">
+            Some people want close 1-on-1 guidance. Others want a strong remote system.
+            The offers page makes that decision easier.
+          </p>
+        </div>
+
+        <div class="container page-links">
+          <a class="button button-gold reveal" href="./offers.html">View Coaching Offers</a>
+          <a class="button button-ghost reveal" href="./offers.html#apply">Go to Apply</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>Obscura Performance</p>
+        <p>Structured fat loss coaching for busy people.</p>
+      </div>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Obscura Performance</title>
+    <meta
+      name="description"
+      content="Affordable, sustainable routines for busy people who want results without extreme diets or confusion."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html" aria-label="Obscura Performance home">
+          <span class="brand-mark"></span>
+          <span class="brand-copy">
+            <strong>Obscura Performance</strong>
+            <span>Structured coaching</span>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="./index.html" aria-current="page">Home</a>
+          <a href="./system.html">System</a>
+          <a href="./results.html">Results</a>
+          <a href="./for-you.html">Who It's For</a>
+          <a href="./about.html">About</a>
+          <a href="./offers.html">Offers</a>
+        </nav>
+
+        <a class="button button-gold button-header" href="./offers.html#apply">Apply Now</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <img
+          class="hero-media"
+          src="https://images.pexels.com/photos/4753890/pexels-photo-4753890.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          alt="Moody gym interior with strength equipment and natural light"
+        />
+        <div class="hero-overlay"></div>
+        <div class="hero-grid"></div>
+
+        <div class="container hero-content">
+          <p class="eyebrow reveal is-visible">Obscura Performance</p>
+          <h1 class="reveal is-visible">
+            Lose Fat.<br />
+            Build Muscle.<br />
+            Create Discipline.<br />
+            Keep It.
+          </h1>
+          <p class="hero-copy reveal is-visible">
+            Simple, structured coaching for busy people who are tired of extreme diets,
+            inconsistent results, and starting over.
+          </p>
+
+          <div class="hero-actions reveal is-visible">
+            <a class="button button-gold" href="./offers.html#apply">Apply Now</a>
+            <a class="button button-ghost" href="./offers.html#seminar">
+              Free Virtual Fat Loss Seminar
+            </a>
+          </div>
+
+          <div class="hero-proof reveal is-visible" aria-label="Coaching highlights">
+            <div>
+              <span>3+ years</span>
+              <p>Training experience shaping a practical coaching system.</p>
+            </div>
+            <div>
+              <span>3 pillars</span>
+              <p>Nutrition simplicity, strength focus, and weekly accountability.</p>
+            </div>
+            <div>
+              <span>Built for busy lives</span>
+              <p>Designed to fit real schedules, not ideal ones.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-light">
+        <div class="container split-intro">
+          <div class="section-heading reveal">
+            <p class="eyebrow eyebrow-dark">Now a multi-page site</p>
+            <h2>Every part of the brand has its own dedicated page.</h2>
+          </div>
+          <p class="section-copy reveal">
+            Instead of one long scrolling page, visitors can now click directly into the
+            section they care about most and move through the experience with clearer
+            navigation.
+          </p>
+        </div>
+
+        <div class="container page-grid">
+          <a class="page-card reveal" href="./system.html">
+            <span>01</span>
+            <h3>The System</h3>
+            <p>Why progress stalls, and the Obscura method that fixes it.</p>
+          </a>
+          <a class="page-card reveal" href="./results.html">
+            <span>02</span>
+            <h3>Results</h3>
+            <p>Transformation highlights and case-study style proof.</p>
+          </a>
+          <a class="page-card reveal" href="./for-you.html">
+            <span>03</span>
+            <h3>Who It's For</h3>
+            <p>A fast way to see whether this coaching style matches your goals.</p>
+          </a>
+          <a class="page-card reveal" href="./about.html">
+            <span>04</span>
+            <h3>About the Coach</h3>
+            <p>The story, experience, and practical philosophy behind the coaching.</p>
+          </a>
+          <a class="page-card reveal" href="./offers.html">
+            <span>05</span>
+            <h3>Offers + Apply</h3>
+            <p>Coaching options, free seminar access, and the next step all in one place.</p>
+          </a>
+        </div>
+      </section>
+
+      <section class="section section-dark preview-section">
+        <div class="container preview-grid">
+          <div class="section-heading reveal">
+            <p class="eyebrow">What visitors can do now</p>
+            <h2>A cleaner path from curiosity to action.</h2>
+            <p class="section-copy">
+              This structure gives each topic room to breathe while keeping the overall
+              brand experience consistent from page to page.
+            </p>
+          </div>
+
+          <div class="preview-stack">
+            <article class="preview-card reveal">
+              <h3>Learn the philosophy</h3>
+              <p>
+                Start on the problem and method pages to understand why the system is
+                built the way it is.
+              </p>
+            </article>
+            <article class="preview-card reveal">
+              <h3>See social proof</h3>
+              <p>
+                Jump into results and testimonials without digging through an oversized
+                landing page.
+              </p>
+            </article>
+            <article class="preview-card reveal">
+              <h3>Choose a next step</h3>
+              <p>
+                Move directly to the offers page when you're ready to compare options or apply.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>Obscura Performance</p>
+        <p>Structured fat loss coaching for busy people.</p>
+      </div>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Offers | Obscura Performance</title>
+    <meta
+      name="description"
+      content="Compare Obscura Performance coaching options, join the free seminar, and take the next step."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html" aria-label="Obscura Performance home">
+          <span class="brand-mark"></span>
+          <span class="brand-copy">
+            <strong>Obscura Performance</strong>
+            <span>Structured coaching</span>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="./index.html">Home</a>
+          <a href="./system.html">System</a>
+          <a href="./results.html">Results</a>
+          <a href="./for-you.html">Who It's For</a>
+          <a href="./about.html">About</a>
+          <a href="./offers.html" aria-current="page">Offers</a>
+        </nav>
+
+        <a class="button button-gold button-header" href="./offers.html#apply">Apply Now</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-hero offers-hero">
+        <div class="container page-hero-content">
+          <p class="eyebrow reveal is-visible">Offers, seminar, and next steps</p>
+          <h1 class="reveal is-visible">Everything you need to start lives on this page.</h1>
+          <p class="section-copy reveal is-visible">
+            Clear options, practical guidance, and a structure that can fit the way you
+            actually live.
+          </p>
+        </div>
+      </section>
+
+      <section class="section section-light" id="offers">
+        <div class="container offer-grid">
+          <article class="offer reveal">
+            <p class="offer-kicker">Option 1</p>
+            <h3>1-on-1 Coaching</h3>
+            <ul>
+              <li>Personalized training plan</li>
+              <li>Nutrition guidance</li>
+              <li>Weekly adjustments</li>
+              <li>Direct support and accountability</li>
+            </ul>
+            <a
+              class="text-link"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdmE8Nfbl0RZTsZE3I0LBkD9NPxg4uep3VzIPS4Tq2xD36e4w/viewform?usp=dialog"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Apply for Coaching
+            </a>
+          </article>
+
+          <article class="offer offer-featured reveal">
+            <p class="offer-kicker">Option 2</p>
+            <h3>Online Coaching</h3>
+            <ul>
+              <li>Remote programming</li>
+              <li>Weekly check-ins</li>
+              <li>Habit structure and progression</li>
+              <li>Clear next steps without guesswork</li>
+            </ul>
+            <a
+              class="text-link"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSeMLSgniwocQ6e23OhTtmP3uv6Uci76GiuPMc5dBju4fv2DIA/viewform?usp=dialog"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Apply for Online Coaching
+            </a>
+          </article>
+        </div>
+      </section>
+
+      <section class="section section-dark" id="seminar">
+        <div class="container split-intro">
+          <div class="section-heading reveal">
+            <p class="eyebrow">Need a softer entry point?</p>
+            <h2>Start with the free seminar if you want clarity before committing.</h2>
+          </div>
+          <p class="section-copy reveal">
+            It is a good bridge for people who want the full fat loss roadmap before they
+            decide on coaching support.
+          </p>
+        </div>
+
+        <div class="container breakdown-inner reveal">
+          <div class="breakdown-meta" aria-label="Session highlights">
+            <span>Live online session</span>
+            <span>Simple fat loss roadmap</span>
+            <span>Q&amp;A included</span>
+          </div>
+
+          <div class="steps-grid">
+            <article class="step-card">
+              <span>01</span>
+              <h3>Cut through the noise</h3>
+              <p>Get a straightforward breakdown instead of another pile of mixed advice.</p>
+            </article>
+            <article class="step-card">
+              <span>02</span>
+              <h3>Understand the roadmap</h3>
+              <p>See what matters most for sustainable fat loss and consistent training.</p>
+            </article>
+            <article class="step-card">
+              <span>03</span>
+              <h3>Leave with next steps</h3>
+              <p>Walk away knowing whether self-guided action or coaching makes sense next.</p>
+            </article>
+          </div>
+
+          <div class="page-links">
+            <a
+              class="button button-gold"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdmE8Nfbl0RZTsZE3I0LBkD9NPxg4uep3VzIPS4Tq2xD36e4w/viewform?usp=dialog"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Reserve Your Spot
+            </a>
+            <a class="button button-ghost" href="#apply">Go to Apply</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-light" id="apply">
+        <div class="container">
+          <div class="section-heading reveal">
+            <p class="eyebrow eyebrow-dark">Ready to start</p>
+            <h2>Apply when you're ready for structure.</h2>
+            <p class="section-copy">
+              Choose the path that fits best. Go straight into coaching, or start with the
+              seminar and decide from there.
+            </p>
+          </div>
+
+          <div class="cta-actions reveal">
+            <a
+              class="button button-dark"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdmE8Nfbl0RZTsZE3I0LBkD9NPxg4uep3VzIPS4Tq2xD36e4w/viewform?usp=dialog"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Apply for 1-on-1 Coaching
+            </a>
+            <a
+              class="button button-outline-dark"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSeMLSgniwocQ6e23OhTtmP3uv6Uci76GiuPMc5dBju4fv2DIA/viewform?usp=dialog"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Apply for Online Coaching
+            </a>
+          </div>
+
+          <p class="cta-note reveal">
+            Applications are reviewed personally to keep coaching high-touch.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>Obscura Performance</p>
+        <p>Structured fat loss coaching for busy people.</p>
+      </div>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0; url=./system.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting | Obscura Performance</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="section section-dark">
+      <div class="container section-heading centered">
+        <p class="eyebrow">Redirecting</p>
+        <h2>The problem and method now live on one page.</h2>
+        <p class="section-copy centered-copy">
+          If the redirect does not happen automatically, head to
+          <a href="./system.html">the system page</a>.
+        </p>
+      </div>
+    </main>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Results | Obscura Performance</title>
+    <meta
+      name="description"
+      content="Client results, transformation stories, and proof of the Obscura process."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html" aria-label="Obscura Performance home">
+          <span class="brand-mark"></span>
+          <span class="brand-copy">
+            <strong>Obscura Performance</strong>
+            <span>Structured coaching</span>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="./index.html">Home</a>
+          <a href="./system.html">System</a>
+          <a href="./results.html" aria-current="page">Results</a>
+          <a href="./for-you.html">Who It's For</a>
+          <a href="./about.html">About</a>
+          <a href="./offers.html">Offers</a>
+        </nav>
+
+        <a class="button button-gold button-header" href="./offers.html#apply">Apply Now</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-hero results-hero">
+        <div class="container page-hero-content">
+          <p class="eyebrow reveal is-visible">Client results</p>
+          <h1 class="reveal is-visible">Proof of the process.</h1>
+          <p class="section-copy reveal is-visible">
+            Real clients. Real structure. Real results built on consistency.
+          </p>
+        </div>
+      </section>
+
+      <section class="section section-dark">
+        <div class="container">
+          <div class="results-grid">
+            <article class="result-card reveal">
+              <img
+                src="https://images.pexels.com/photos/6551077/pexels-photo-6551077.jpeg?auto=compress&cs=tinysrgb&w=900"
+                alt="Client training in a gym"
+                loading="lazy"
+              />
+              <p>"Down 18 lbs, but more importantly I actually kept it off."</p>
+              <h4>- Client A</h4>
+            </article>
+
+            <article class="result-card reveal">
+              <img
+                src="https://images.pexels.com/photos/6456305/pexels-photo-6456305.jpeg?auto=compress&cs=tinysrgb&w=900"
+                alt="Client smiling during a workout"
+                loading="lazy"
+              />
+              <p>"First time I've ever been consistent for more than 2 months."</p>
+              <h4>- Client B</h4>
+            </article>
+
+            <article class="result-card reveal">
+              <img
+                src="https://images.pexels.com/photos/6456141/pexels-photo-6456141.jpeg?auto=compress&cs=tinysrgb&w=900"
+                alt="Client doing a strength session"
+                loading="lazy"
+              />
+              <p>"No extreme dieting, just structure. That's what changed everything."</p>
+              <h4>- Client C</h4>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-light">
+        <div class="container">
+          <div class="section-heading reveal">
+            <p class="eyebrow eyebrow-dark">Case studies</p>
+            <h2>Results will speak even louder.</h2>
+            <p class="section-copy">
+              Space for deeper before-and-after stories, timelines, and documented
+              transformations as the roster keeps growing.
+            </p>
+          </div>
+
+          <div class="testimonial-grid">
+            <article class="testimonial reveal">
+              <span>Case Study 01</span>
+              <h3>Current beta intake</h3>
+              <p>Early client transformations will be added as they are documented.</p>
+            </article>
+            <article class="testimonial reveal">
+              <span>Case Study 02</span>
+              <h3>Structured, sustainable progress</h3>
+              <p>Before and after imagery, quote, and timeline summary coming soon.</p>
+            </article>
+            <article class="testimonial reveal">
+              <span>Case Study 03</span>
+              <h3>Busy-life fat loss</h3>
+              <p>Results that show what consistency looks like when the plan fits real life.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-dark">
+        <div class="container page-links">
+          <a class="button button-gold reveal" href="./offers.html">See Coaching Options</a>
+          <a class="button button-ghost reveal" href="./offers.html#apply">Go to Apply</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>Obscura Performance</p>
+        <p>Structured fat loss coaching for busy people.</p>
+      </div>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+
+const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+const revealItems = document.querySelectorAll(".reveal");
+
+if (prefersReducedMotion.matches) {
+  revealItems.forEach((item) => item.classList.add("is-visible"));
+} else {
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+          observer.unobserve(entry.target);
+        }
+      });
+    },
+    {
+      threshold: 0.18,
+      rootMargin: "0px 0px -8% 0px",
+    }
+  );
+
+  revealItems.forEach((item) => observer.observe(item));
+}
+
+:root {
+  --bg: #0a0a0c;
+  --panel: #111215;
+  --panel-soft: #181b20;
+  --surface: #f4efe7;
+  --surface-alt: #fffaf3;
+  --text: #f5efe5;
+  --text-muted: #cbbfad;
+  --text-dark: #161616;
+  --line: rgba(255, 255, 255, 0.08);
+  --line-dark: rgba(22, 22, 22, 0.12);
+  --gold: #cfab6c;
+  --gold-strong: #ddb878;
+  --shadow: 0 24px 70px rgba(0, 0, 0, 0.24);
+  --radius: 8px;
+  --container: 1160px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.6;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul {
+  margin: 0;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 44px 44px;
+  pointer-events: none;
+  opacity: 0.28;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), transparent 80%);
+}
+
+.container {
+  width: min(calc(100% - 2rem), var(--container));
+  margin: 0 auto;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  backdrop-filter: blur(18px);
+  background: rgba(10, 10, 12, 0.82);
+  border-bottom: 1px solid var(--line);
+}
+
+.header-inner {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 1.5rem;
+  align-items: center;
+  min-height: 5.4rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.9rem;
+}
+
+.brand-mark {
+  /* Swap this image URL for the final logo asset when it's ready. */
+  width: 2.55rem;
+  height: 2.55rem;
+  border-radius: 6px;
+  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=300");
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 0 0 6px rgba(207, 171, 108, 0.12);
+  flex-shrink: 0;
+}
+
+.brand-copy {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.brand-copy strong {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.55rem;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.brand-copy span {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.35rem;
+}
+
+.site-nav a {
+  color: var(--text-muted);
+  padding: 0.55rem 0.85rem;
+  border-radius: 999px;
+  transition: color 180ms ease, background-color 180ms ease;
+  font-size: 0.95rem;
+}
+
+.site-nav a:hover,
+.site-nav a[aria-current="page"] {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0.8rem 1.3rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  font-weight: 700;
+  line-height: 1.1;
+  text-align: center;
+  transition: transform 180ms ease, border-color 180ms ease, background-color 180ms ease,
+    color 180ms ease;
+}
+
+.button:hover {
+  transform: translateY(-1px);
+}
+
+.button-gold {
+  background: var(--gold);
+  color: #14120f;
+}
+
+.button-gold:hover {
+  background: var(--gold-strong);
+}
+
+.button-ghost {
+  border-color: rgba(255, 255, 255, 0.2);
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.button-ghost:hover {
+  border-color: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.button-dark {
+  background: #17181b;
+  color: var(--text);
+}
+
+.button-outline-dark {
+  border-color: var(--line-dark);
+  color: var(--text-dark);
+}
+
+.button-header {
+  white-space: nowrap;
+}
+
+.hero,
+.page-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero {
+  min-height: min(92vh, 56rem);
+  display: flex;
+  align-items: end;
+}
+
+.hero-media,
+.page-hero::before {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-overlay,
+.page-hero::after {
+  position: absolute;
+  inset: 0;
+  content: "";
+}
+
+.hero-overlay {
+  background: linear-gradient(
+      180deg,
+      rgba(10, 10, 12, 0.36) 0%,
+      rgba(10, 10, 12, 0.6) 35%,
+      rgba(10, 10, 12, 0.95) 100%
+    ),
+    linear-gradient(90deg, rgba(10, 10, 12, 0.78), rgba(10, 10, 12, 0.38));
+}
+
+.hero-grid {
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.07) 1px, transparent 1px);
+  background-size: 72px 72px;
+  mask-image: linear-gradient(to bottom, transparent, black 24%, black 70%, transparent);
+  opacity: 0.18;
+}
+
+.hero-content,
+.page-hero-content {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-content {
+  padding: 9rem 0 4rem;
+}
+
+.hero h1,
+.page-hero h1,
+.section-heading h2 {
+  font-family: "Cormorant Garamond", serif;
+  letter-spacing: 0;
+}
+
+.hero h1 {
+  max-width: 8.5ch;
+  font-size: clamp(3.3rem, 7vw, 6.4rem);
+  line-height: 0.92;
+  margin-top: 1rem;
+}
+
+.hero-copy,
+.section-copy {
+  color: var(--text-muted);
+  font-size: 1.08rem;
+  max-width: 44rem;
+}
+
+.hero-copy {
+  margin-top: 1.25rem;
+}
+
+.hero-actions,
+.cta-actions,
+.page-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+}
+
+.hero-actions {
+  margin-top: 2rem;
+}
+
+.hero-proof {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 3rem;
+}
+
+.hero-proof div,
+.preview-card,
+.problem-item,
+.pillar,
+.result-card,
+.testimonial,
+.offer,
+.fit-panel,
+.step-card,
+.page-card {
+  border: 1px solid var(--line);
+  background: rgba(17, 18, 21, 0.82);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.hero-proof div {
+  padding: 1.2rem;
+}
+
+.hero-proof span,
+.about-points span,
+.problem-item span,
+.pillar-number,
+.offer-kicker,
+.testimonial span,
+.step-card span,
+.page-card span {
+  display: inline-block;
+  color: var(--gold-strong);
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  margin-bottom: 0.6rem;
+}
+
+.hero-proof p,
+.about-points p {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.section {
+  padding: 5.5rem 0;
+  position: relative;
+}
+
+.section-light {
+  background: var(--surface);
+  color: var(--text-dark);
+}
+
+.section-dark {
+  background: transparent;
+}
+
+.section-light .section-copy,
+.section-light .problem-item p,
+.section-light .fit-panel li,
+.section-light .offer li,
+.section-light .testimonial p,
+.section-light .page-card p,
+.section-light .step-card p {
+  color: rgba(22, 22, 22, 0.72);
+}
+
+.section-heading {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.section-heading h2 {
+  font-size: clamp(2.3rem, 4vw, 4rem);
+  line-height: 0.96;
+  max-width: 11ch;
+}
+
+.centered {
+  justify-items: center;
+  text-align: center;
+}
+
+.section-heading.centered h2,
+.centered-copy {
+  max-width: 20ch;
+}
+
+.page-links {
+  margin-top: 2rem;
+}
+
+.eyebrow {
+  color: var(--gold-strong);
+  font-weight: 800;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+.eyebrow-dark {
+  color: #8d6a35;
+}
+
+.split-intro,
+.preview-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: end;
+}
+
+.page-grid,
+.problem-grid,
+.pillar-grid,
+.results-grid,
+.testimonial-grid,
+.offer-grid,
+.steps-grid {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.page-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 2.5rem;
+}
+
+.page-card {
+  padding: 1.5rem;
+  color: inherit;
+  transition: transform 180ms ease, border-color 180ms ease;
+}
+
+.page-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(141, 106, 53, 0.28);
+}
+
+.page-card h3 {
+  font-size: 1.35rem;
+  margin-bottom: 0.5rem;
+}
+
+.preview-section {
+  padding-top: 4.5rem;
+}
+
+.preview-stack {
+  display: grid;
+  gap: 1rem;
+}
+
+.preview-card {
+  padding: 1.5rem;
+}
+
+.preview-card h3 {
+  margin-bottom: 0.45rem;
+  font-size: 1.25rem;
+}
+
+.preview-card p {
+  color: var(--text-muted);
+}
+
+.page-hero {
+  min-height: 25rem;
+  display: flex;
+  align-items: end;
+}
+
+.page-hero::before {
+  content: "";
+  filter: saturate(0.95);
+}
+
+.page-hero::after {
+  background: linear-gradient(
+      180deg,
+      rgba(10, 10, 12, 0.38) 0%,
+      rgba(10, 10, 12, 0.74) 55%,
+      rgba(10, 10, 12, 0.92) 100%
+    ),
+    linear-gradient(90deg, rgba(10, 10, 12, 0.72), rgba(10, 10, 12, 0.36));
+}
+
+.page-hero-content {
+  padding: 8.5rem 0 3.2rem;
+}
+
+.page-hero h1 {
+  font-size: clamp(2.9rem, 5.2vw, 5rem);
+  line-height: 0.94;
+  max-width: 12ch;
+  margin-top: 0.8rem;
+}
+
+.problem-hero::before {
+  background: url("https://images.pexels.com/photos/7674497/pexels-photo-7674497.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    center/cover;
+}
+
+.system-hero::before {
+  background: url("https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    center/cover;
+}
+
+.results-hero::before {
+  background: url("https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    center/cover;
+}
+
+.fit-hero::before {
+  background: url("https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    center/cover;
+}
+
+.about-hero::before {
+  background: url("https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    center/cover;
+}
+
+.offers-hero::before {
+  background: url("https://images.pexels.com/photos/3837784/pexels-photo-3837784.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    center/cover;
+}
+
+.breakdown-hero::before {
+  background: url("https://images.pexels.com/photos/6456291/pexels-photo-6456291.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    center/cover;
+}
+
+.apply-hero::before {
+  background: url("https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg?auto=compress&cs=tinysrgb&w=1600")
+    center/cover;
+}
+
+.problem-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.problem-item {
+  padding: 1.5rem;
+}
+
+.problem-item h3,
+.pillar h3,
+.offer h3,
+.testimonial h3,
+.result-card h4,
+.step-card h3 {
+  font-size: 1.32rem;
+  margin-bottom: 0.55rem;
+}
+
+.section-light .problem-item,
+.section-light .offer,
+.section-light .testimonial,
+.section-light .fit-panel,
+.section-light .page-card,
+.section-light .step-card {
+  background: rgba(255, 255, 255, 0.6);
+  border-color: rgba(22, 22, 22, 0.08);
+  box-shadow: 0 16px 42px rgba(52, 42, 27, 0.08);
+}
+
+.pillar-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 2.5rem;
+}
+
+.pillar {
+  padding: 1.6rem;
+}
+
+.pillar ul {
+  color: var(--text-muted);
+}
+
+.results-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.result-card {
+  overflow: hidden;
+}
+
+.result-card img {
+  aspect-ratio: 4 / 4.4;
+  object-fit: cover;
+}
+
+.result-card p,
+.result-card h4 {
+  padding: 0 1.25rem;
+}
+
+.result-card p {
+  padding-top: 1.2rem;
+  color: var(--text-muted);
+}
+
+.result-card h4 {
+  padding-bottom: 1.3rem;
+  margin-top: 0.75rem;
+}
+
+.testimonial-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 2rem;
+}
+
+.testimonial,
+.step-card {
+  padding: 1.5rem;
+}
+
+.fit-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.fit-panel {
+  padding: 1.6rem;
+}
+
+.fit-panel-dark {
+  background: #17181b;
+  color: var(--text);
+}
+
+.fit-panel-dark li {
+  color: var(--text-muted);
+}
+
+.fit-label {
+  font-weight: 800;
+  margin-bottom: 0.9rem;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  gap: 2rem;
+  align-items: center;
+}
+
+.about-copy {
+  display: grid;
+  gap: 1rem;
+}
+
+.about-copy p {
+  color: var(--text-muted);
+}
+
+.about-points {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 0.4rem;
+}
+
+.about-points div {
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.about-media {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 1rem;
+}
+
+.about-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+}
+
+.about-image-wide {
+  min-height: 30rem;
+}
+
+.about-image-tall {
+  min-height: 30rem;
+}
+
+.offer-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.offer {
+  padding: 1.75rem;
+}
+
+.offer-featured {
+  background: linear-gradient(180deg, rgba(207, 171, 108, 0.16), rgba(255, 255, 255, 0.03));
+}
+
+.text-link {
+  display: inline-flex;
+  margin-top: 1rem;
+  color: #8d6a35;
+  font-weight: 700;
+}
+
+.breakdown-inner {
+  display: grid;
+  gap: 1.6rem;
+}
+
+.breakdown-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.breakdown-meta span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.7rem;
+  padding: 0.6rem 1rem;
+  border-radius: 999px;
+  border: 1px solid rgba(22, 22, 22, 0.1);
+  background: rgba(255, 255, 255, 0.6);
+  font-weight: 600;
+}
+
+.steps-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.section-dark .step-card {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.section-dark .step-card p,
+.section-dark .testimonial p {
+  color: var(--text-muted);
+}
+
+.cta-actions {
+  margin-top: 2rem;
+}
+
+.cta-note {
+  margin-top: 1rem;
+  color: var(--text-muted);
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  background: #09090b;
+}
+
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.35rem 0;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(22px);
+  transition: opacity 600ms ease, transform 600ms ease;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .button {
+    transition: none;
+  }
+}
+
+@media (max-width: 1100px) {
+  .header-inner {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    padding: 0.8rem 0;
+  }
+
+  .hero-proof,
+  .page-grid,
+  .problem-grid,
+  .pillar-grid,
+  .results-grid,
+  .testimonial-grid,
+  .steps-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .split-intro,
+  .preview-grid,
+  .about-grid,
+  .offer-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .about-points {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  body::before {
+    background-size: 32px 32px;
+  }
+
+  .container {
+    width: min(calc(100% - 1.25rem), var(--container));
+  }
+
+  .site-nav {
+    justify-content: flex-start;
+  }
+
+  .hero-content,
+  .page-hero-content {
+    padding-top: 7.3rem;
+  }
+
+  .hero {
+    min-height: auto;
+  }
+
+  .hero h1 {
+    max-width: 10ch;
+  }
+
+  .hero-proof,
+  .page-grid,
+  .problem-grid,
+  .pillar-grid,
+  .results-grid,
+  .testimonial-grid,
+  .fit-grid,
+  .about-points,
+  .about-media,
+  .offer-grid,
+  .steps-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section {
+    padding: 4.25rem 0;
+  }
+
+  .footer-inner {
+    flex-direction: column;
+  }
+}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The System | Obscura Performance</title>
+    <meta
+      name="description"
+      content="The Obscura system: a clear, sustainable framework for fat loss, strength, and structure."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html" aria-label="Obscura Performance home">
+          <span class="brand-mark"></span>
+          <span class="brand-copy">
+            <strong>Obscura Performance</strong>
+            <span>Structured coaching</span>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="./index.html">Home</a>
+          <a href="./system.html" aria-current="page">System</a>
+          <a href="./results.html">Results</a>
+          <a href="./for-you.html">Who It's For</a>
+          <a href="./about.html">About</a>
+          <a href="./offers.html">Offers</a>
+        </nav>
+
+        <a class="button button-gold button-header" href="./offers.html#apply">Apply Now</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-hero system-hero">
+        <div class="container page-hero-content">
+          <p class="eyebrow reveal is-visible">The Obscura System</p>
+          <h1 class="reveal is-visible">Why progress stalls, and what fixes it.</h1>
+          <p class="section-copy reveal is-visible">
+            First remove the chaos. Then build a clear system around nutrition,
+            training, and accountability.
+          </p>
+        </div>
+      </section>
+
+      <section class="section section-light">
+        <div class="container split-intro">
+          <div class="section-heading reveal">
+            <p class="eyebrow eyebrow-dark">Why progress stalls</p>
+            <h2>Most people don't fail because they lack effort.</h2>
+          </div>
+          <p class="section-copy reveal">
+            They fail because the process feels chaotic. Too many rules. Too much
+            noise. Not enough structure to keep going when life gets busy.
+          </p>
+        </div>
+
+        <div class="container problem-grid">
+          <article class="problem-item reveal">
+            <span>01</span>
+            <h3>Fat loss gets overcomplicated.</h3>
+            <p>Too much conflicting advice turns consistency into guesswork.</p>
+          </article>
+          <article class="problem-item reveal">
+            <span>02</span>
+            <h3>Unsustainable diets create relapse cycles.</h3>
+            <p>Restriction works briefly, then life happens and progress resets.</p>
+          </article>
+          <article class="problem-item reveal">
+            <span>03</span>
+            <h3>Structure disappears when motivation dips.</h3>
+            <p>Without a system, effort depends on mood and free time.</p>
+          </article>
+          <article class="problem-item reveal">
+            <span>04</span>
+            <h3>Accountability is usually missing.</h3>
+            <p>Most people are left to figure out what to change alone.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section section-dark">
+        <div class="container">
+          <div class="section-heading centered reveal">
+            <p class="eyebrow">Three pillars</p>
+            <h2>Built around what actually moves progress.</h2>
+          </div>
+
+          <div class="pillar-grid">
+            <article class="pillar reveal">
+              <span class="pillar-number">01</span>
+              <h3>Nutrition Simplicity</h3>
+              <ul>
+                <li>No extreme diets</li>
+                <li>Build healthy relationships with food</li>
+                <li>Sustainable habits that fit real life</li>
+              </ul>
+            </article>
+
+            <article class="pillar reveal">
+              <span class="pillar-number">02</span>
+              <h3>Strength Training Focus</h3>
+              <ul>
+                <li>3 to 4 sessions per week</li>
+                <li>Progressive overload</li>
+                <li>Change without chaos</li>
+              </ul>
+            </article>
+
+            <article class="pillar reveal">
+              <span class="pillar-number">03</span>
+              <h3>Accountability and Structure</h3>
+              <ul>
+                <li>Weekly check-ins</li>
+                <li>Adjustments based on progress</li>
+                <li>Real coaching, not generic templates</li>
+              </ul>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-light">
+        <div class="container split-intro">
+          <div class="section-heading reveal">
+            <p class="eyebrow eyebrow-dark">Designed for real life</p>
+            <h2>Enough structure to guide you, enough flexibility to keep going.</h2>
+          </div>
+          <p class="section-copy reveal">
+            The goal is not perfection. The goal is a repeatable process that keeps
+            working when motivation is low, work is busy, and life gets noisy.
+          </p>
+        </div>
+
+        <div class="container page-links">
+          <a class="button button-dark reveal" href="./results.html">See Results</a>
+          <a class="button button-outline-dark reveal" href="./offers.html#apply">View Offers</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>Obscura Performance</p>
+        <p>Structured fat loss coaching for busy people.</p>
+      </div>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
